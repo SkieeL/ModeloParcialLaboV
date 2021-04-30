@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Productos</string>
+
+    <string name="titulo_editar">Modificar</string>
+
+    <string name="texto_nombre">Nombre del producto</string>
+
+    <string name="texto_cantidad">Cantidad: </string>
+
+    <string name="texto_precio">Precio unidad: </string>
+
+    <string name="btn_guardar">EDITAR</string>
+
+    <string name="datos_guardados">Producto editado</string>
+
+    <string name="error_al_guardar_datos">Alguno de los datos es incorrecto</string>
+
+</resources>

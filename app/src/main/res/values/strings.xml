@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Products</string>
+
+    <string name="titulo_editar">Edit</string>
+
+    <string name="texto_nombre">Product name</string>
+
+    <string name="texto_cantidad">Quantity: </string>
+
+    <string name="texto_precio">Unit price: </string>
+
+    <string name="btn_guardar">EDIT</string>
+
+    <string name="datos_guardados">Product edited</string>
+
+    <string name="error_al_guardar_datos">Some of the data is wrong</string>
+
+</resources>
